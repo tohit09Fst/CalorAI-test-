@@ -134,16 +134,7 @@ npm run dev
 - If Test Group performs better → adopt onboarding  
 - Otherwise → keep control flow  
 
----
 
-## ⏱️ Time Breakdown
-
-- A/B Testing: 3 hrs  
-- Health Chatbot: 4 hrs  
-- Dashboard: 2 hrs  
-- Debugging: 2 hrs  
-
----
 
 ## ⚖️ Assumptions & Trade-offs
 
